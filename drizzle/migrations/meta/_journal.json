@@ -1,0 +1,62 @@
+{
+  "version": "7",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1790147676799,
+      "tag": "0000_placementcamp_core_schema",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1790147727470,
+      "tag": "0001_storage_policies",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1790148119367,
+      "tag": "0002_hide_aptitude_answers_from_clients",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "7",
+      "when": 1790149315493,
+      "tag": "0003_assign_student_role_on_profile_create",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "7",
+      "when": 1790149359627,
+      "tag": "0004_lock_down_trigger_function_execute",
+      "breakpoints": true
+    },
+    {
+      "idx": 5,
+      "version": "7",
+      "when": 1790150306834,
+      "tag": "0005_daily_challenge_attempts",
+      "breakpoints": true
+    },
+    {
+      "idx": 6,
+      "version": "7",
+      "when": 1790150922944,
+      "tag": "0006_add_video_and_review_enums",
+      "breakpoints": true
+    },
+    {
+      "idx": 7,
+      "version": "7",
+      "when": 1790150969993,
+      "tag": "0007_video_library_and_bulk_content",
+      "breakpoints": true
+    }
+  ]
+}
